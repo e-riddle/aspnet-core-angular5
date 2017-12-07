@@ -1,0 +1,6 @@
+Type "ng build" 
+
+Type "dotnet run" 
+
+Goto http://localhost:5000/
+

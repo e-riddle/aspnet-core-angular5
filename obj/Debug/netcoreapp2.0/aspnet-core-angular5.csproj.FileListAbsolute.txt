@@ -1,0 +1,10 @@
+C:\Projects\aspnet-core-angular5\bin\Debug\netcoreapp2.0\aspnet-core-angular5.deps.json
+C:\Projects\aspnet-core-angular5\bin\Debug\netcoreapp2.0\aspnet-core-angular5.runtimeconfig.json
+C:\Projects\aspnet-core-angular5\bin\Debug\netcoreapp2.0\aspnet-core-angular5.runtimeconfig.dev.json
+C:\Projects\aspnet-core-angular5\bin\Debug\netcoreapp2.0\aspnet-core-angular5.dll
+C:\Projects\aspnet-core-angular5\bin\Debug\netcoreapp2.0\aspnet-core-angular5.pdb
+C:\Projects\aspnet-core-angular5\obj\Debug\netcoreapp2.0\aspnet-core-angular5.csproj.CoreCompileInputs.cache
+C:\Projects\aspnet-core-angular5\obj\Debug\netcoreapp2.0\aspnet-core-angular5.AssemblyInfoInputs.cache
+C:\Projects\aspnet-core-angular5\obj\Debug\netcoreapp2.0\aspnet-core-angular5.AssemblyInfo.cs
+C:\Projects\aspnet-core-angular5\obj\Debug\netcoreapp2.0\aspnet-core-angular5.dll
+C:\Projects\aspnet-core-angular5\obj\Debug\netcoreapp2.0\aspnet-core-angular5.pdb
